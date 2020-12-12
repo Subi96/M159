@@ -1,5 +1,5 @@
 # M159
 
-Passowort: 
+Passworträtsel:
 
 Siehe das Bild unten. Viel Spass beim überlegen!
